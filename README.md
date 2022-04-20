@@ -1,6 +1,10 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
+Hey this is the newBranch conflict!
+
+Git rocks.
+More text here.
 
 ### Basic Commands
 * 'git init' - initialize a local git repo
@@ -12,7 +16,7 @@ Overview of git commands.
 * 'git status' - status of local workspace
 * 'git log' - show log of commits
 * 'git log --oneline'
-* 'git config -l' - 
+* 'git config -l' -
 
 ### Branching Commands
 * 'git branch' - list local branches
