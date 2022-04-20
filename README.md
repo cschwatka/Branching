@@ -1,7 +1,5 @@
 ## Git Cheat Sheet
 
-OH  NOOOOO...
-
 Overview of git commands.
 
 Hey this is the newBranch conflict!
