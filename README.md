@@ -5,7 +5,13 @@
 * 'git add' - stage files/folders to commit
 * 'git commit' -m 'Commit msg' - commit current workspace snapshot to local repo
 
+
 ### Information Commands
 * 'git status' - status of local workspace
 * 'git log' - show log of commits
 * 'git log --oneline'
+* 'git config -l' - 
+
+### Branching Commands
+* 'git branch' - list local branches
+* 'git checkout branchName' - change to another branch
